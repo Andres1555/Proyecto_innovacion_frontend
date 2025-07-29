@@ -94,14 +94,14 @@ const SignUp = () => {
           </select>
         </div>
 
-        {/* Mensaje visual */}
+        {}
         {mensaje && (
           <div className="text-white bg-gray-700 p-2 rounded border border-gray-500 text-sm">
             {mensaje}
           </div>
         )}
 
-        {/* Botones */}
+        {}
         <div className="flex justify-between mt-4">
           <button
             type="button"

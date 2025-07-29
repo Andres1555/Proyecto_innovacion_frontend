@@ -8,13 +8,13 @@ const Perfil = () => {
   const [activeSection, setActiveSection] = useState(null);
 
   const handleProfileClick = () => {
-    setActiveSection("perfil"); // Cambia a Perfil
+    setActiveSection("perfil"); 
     setIsAsideVisible(true);
   };
 
   const handleToggleMenu = () => {
     setIsAsideVisible((prev) => !prev);
-    if (!isAsideVisible) setActiveSection(null); // Limpia la vista activa cuando se cierra el menú
+    if (!isAsideVisible) setActiveSection(null); 
   };
 
   return (
