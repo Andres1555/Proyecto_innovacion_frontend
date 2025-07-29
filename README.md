@@ -8,6 +8,10 @@
 
 3- Correr el backend del proyecto
 
+4- Una vez encendido el backend del proyecto darle ctrl-click al puerto donde se inicio el frontend o copiar la ruta y pegarla en tu navegador
+
+5- Disfrutar del proyecto
+
 ## Tecnologias usadas
 
 - React
