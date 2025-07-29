@@ -6,6 +6,8 @@
 2- Correr el main
 - npm run dev
 
+3- Correr el backend del proyecto
+
 ## Tecnologias usadas
 
 - React
